@@ -1,0 +1,11 @@
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Вебинар2.1\Вебинар2.1\bin\Debug\Вебинар2.1.dll
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Вебинар2.1\Вебинар2.1\bin\Debug\Вебинар2.1.pdb
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Вебинар2.1\Вебинар2.1\bin\Debug\nunit.framework.dll
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Вебинар2.1\Вебинар2.1\bin\Debug\WebDriver.dll
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Вебинар2.1\Вебинар2.1\bin\Debug\WebDriver.Support.dll
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Вебинар2.1\Вебинар2.1\bin\Debug\nunit.framework.xml
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Вебинар2.1\Вебинар2.1\bin\Debug\WebDriver.xml
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Вебинар2.1\Вебинар2.1\bin\Debug\WebDriver.Support.xml
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Вебинар2.1\Вебинар2.1\obj\Debug\Вебинар2.1.csprojResolveAssemblyReference.cache
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Вебинар2.1\Вебинар2.1\obj\Debug\Вебинар2.1.dll
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Вебинар2.1\Вебинар2.1\obj\Debug\Вебинар2.1.pdb
