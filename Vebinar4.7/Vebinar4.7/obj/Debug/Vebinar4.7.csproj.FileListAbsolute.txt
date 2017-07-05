@@ -1,0 +1,11 @@
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Vebinar4.7\Vebinar4.7\bin\Debug\Vebinar4.7.dll
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Vebinar4.7\Vebinar4.7\bin\Debug\Vebinar4.7.pdb
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Vebinar4.7\Vebinar4.7\bin\Debug\nunit.framework.dll
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Vebinar4.7\Vebinar4.7\bin\Debug\WebDriver.dll
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Vebinar4.7\Vebinar4.7\bin\Debug\WebDriver.Support.dll
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Vebinar4.7\Vebinar4.7\bin\Debug\nunit.framework.xml
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Vebinar4.7\Vebinar4.7\bin\Debug\WebDriver.xml
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Vebinar4.7\Vebinar4.7\bin\Debug\WebDriver.Support.xml
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Vebinar4.7\Vebinar4.7\obj\Debug\Vebinar4.7.dll
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Vebinar4.7\Vebinar4.7\obj\Debug\Vebinar4.7.pdb
+D:\Selenium\GitHub\Selenium-WebDriver-sel8\Vebinar4.7\Vebinar4.7\obj\Debug\Vebinar4.7.csprojResolveAssemblyReference.cache
